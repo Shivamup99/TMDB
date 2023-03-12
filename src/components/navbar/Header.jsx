@@ -6,7 +6,7 @@ import { useNavigate, useLocation } from "react-router-dom";
 
 import "./header.scss";
 
-import ContentWrapper from "../contentWrapper/ContentWrapper";
+import ContentWrapper from "../contentwrapper/ContentWrapper";
 import logo from "../../assets/images/movix-logo.svg";
 
 const Header = () => {
